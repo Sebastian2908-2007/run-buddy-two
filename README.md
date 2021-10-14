@@ -17,4 +17,4 @@ https://Sebastian2908-2007.git;hub.io/run-buddy-two
 ## Contribution
  Made with care by Sebastian
  
- ### &copy 2019 Run Buddy Two, Inc
+ ### ©️2019 Run Buddy Two, Inc
