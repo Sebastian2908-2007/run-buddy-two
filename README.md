@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # run-buddy-two Inc.
+=======
+# run-buddy-two, Inc
+>>>>>>> de17066961e09f4b71e3df32c833db6442a95d6c
 
 
 ## Purpose
@@ -16,3 +20,5 @@ https://Sebastian2908-2007.git;hub.io/run-buddy-two
 
 ## Contribution
  Made with care by Sebastian
+ 
+ ### ©️2019 Run Buddy Two, Inc
