@@ -156,9 +156,7 @@ font-size: 16px;
 
 /*what we do section*/
 
-.intro {
-    text-align: center;
-}
+
 
 
 
@@ -168,6 +166,7 @@ font-size: 16px;
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
 }
 /*what we do styles end*/
 
@@ -175,9 +174,10 @@ font-size: 16px;
 .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20 100px;
-    display: inline-block;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
     border-bottom: 3px solid;
 }
 
@@ -194,7 +194,7 @@ font-size: 16px;
 /* what you do or "steps"  section begins*/
 
 .steps {
-    text-align: center;
+   
     background: #fce138;
 }
 
@@ -225,10 +225,10 @@ font-size: 16px;
 
 /* steps or what you do ends*/
 
-/*trainers section start*/
+/*trainers section start
 .trainers {
-    text-align: center;
-}
+    
+}*/
 /*trainers section ends*/
 
 /*individual trainer styles begin*/
@@ -280,7 +280,7 @@ font-size: 16px;
 
 /*contact section begins*/
 .contact {
-    text-align: center;
+    
     background-color: #024e76;
 }
 .contact h2 {
@@ -317,3 +317,7 @@ font-size: 16px;
     color: #fce138;
 }
 /*contact section ends*/
+
+.flex-row {
+    display: flex;
+}
